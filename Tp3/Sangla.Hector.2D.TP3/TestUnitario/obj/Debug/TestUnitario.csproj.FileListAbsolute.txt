@@ -1,0 +1,3 @@
+C:\Users\e5a8013\Desktop\Espacio de Estudio\tp3\cursoC--master\tp3\Sangla.Hector.2D.TP3\TestUnitario\obj\Debug\TestUnitario.csprojResolveAssemblyReference.cache
+C:\Users\sangl\Desktop\30DeOctubre\tp3\Sangla.Hector.2D.TP3\TestUnitario\obj\Debug\TestUnitario.csprojAssemblyReference.cache
+C:\Users\sangl\Desktop\30DeOctubre\tp3\Sangla.Hector.2D.TP3\TestUnitario\obj\Debug\TestUnitario.csproj.CoreCompileInputs.cache
