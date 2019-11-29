@@ -1,0 +1,11 @@
+C:\Users\e5a8013\Desktop\TP numero 4\TpNumero4\Entidades\bin\Debug\Entidades.dll
+C:\Users\e5a8013\Desktop\TP numero 4\TpNumero4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\e5a8013\Desktop\TP numero 4\TpNumero4\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\e5a8013\Desktop\TP numero 4\TpNumero4\Entidades\obj\Debug\Entidades.dll
+C:\Users\e5a8013\Desktop\TP numero 4\TpNumero4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\sangl\Desktop\TP numero 4\TpNumero4\Entidades\bin\Debug\Entidades.dll
+C:\Users\sangl\Desktop\TP numero 4\TpNumero4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\sangl\Desktop\TP numero 4\TpNumero4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\sangl\Desktop\TP numero 4\TpNumero4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\sangl\Desktop\TP numero 4\TpNumero4\Entidades\obj\Debug\Entidades.dll
+C:\Users\sangl\Desktop\TP numero 4\TpNumero4\Entidades\obj\Debug\Entidades.pdb
