@@ -1,0 +1,34 @@
+C:\Users\e5a8013\Desktop\Espacio de Estudio\tp3\cursoC--master\tp3\Sangla.Hector.2D.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\e5a8013\Desktop\Espacio de Estudio\tp3\cursoC--master\tp3\Sangla.Hector.2D.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\e5a8013\Desktop\Espacio de Estudio\tp3\cursoC--master\tp3\Sangla.Hector.2D.TP3\Archivos\bin\Debug\exepciones.dll
+C:\Users\e5a8013\Desktop\Espacio de Estudio\tp3\cursoC--master\tp3\Sangla.Hector.2D.TP3\Archivos\bin\Debug\exepciones.pdb
+C:\Users\e5a8013\Desktop\Espacio de Estudio\tp3\cursoC--master\tp3\Sangla.Hector.2D.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+C:\Users\e5a8013\Desktop\Espacio de Estudio\tp3\cursoC--master\tp3\Sangla.Hector.2D.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\e5a8013\Desktop\Espacio de Estudio\tp3\cursoC--master\tp3\Sangla.Hector.2D.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\sangl\Desktop\30DeOctubre\tp3\Sangla.Hector.2D.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\sangl\Desktop\30DeOctubre\tp3\Sangla.Hector.2D.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\sangl\Desktop\30DeOctubre\tp3\Sangla.Hector.2D.TP3\Archivos\bin\Debug\exepciones.dll
+C:\Users\sangl\Desktop\30DeOctubre\tp3\Sangla.Hector.2D.TP3\Archivos\bin\Debug\exepciones.pdb
+C:\Users\sangl\Desktop\30DeOctubre\tp3\Sangla.Hector.2D.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\sangl\Desktop\30DeOctubre\tp3\Sangla.Hector.2D.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\sangl\Desktop\30DeOctubre\tp3\Sangla.Hector.2D.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\sangl\Desktop\30DeOctubre\tp3\Sangla.Hector.2D.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\sangl\Desktop\30DeOctubre\tp3\Sangla.Hector.2D.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\sangl\Desktop\tpss\Tp3\Sangla.Hector.2D.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\sangl\Desktop\tpss\Tp3\Sangla.Hector.2D.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\sangl\Desktop\tpss\Tp3\Sangla.Hector.2D.TP3\Archivos\bin\Debug\exepciones.dll
+C:\Users\sangl\Desktop\tpss\Tp3\Sangla.Hector.2D.TP3\Archivos\bin\Debug\exepciones.pdb
+C:\Users\sangl\Desktop\tpss\Tp3\Sangla.Hector.2D.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\sangl\Desktop\tpss\Tp3\Sangla.Hector.2D.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\sangl\Desktop\tpss\Tp3\Sangla.Hector.2D.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\sangl\Desktop\tpss\Tp3\Sangla.Hector.2D.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\sangl\Desktop\tpss\Tp3\Sangla.Hector.2D.TP3\Archivos\obj\Debug\Archivos.pdb
+C:\Users\sangl\Desktop\Tps-Recuperatorio\Tp3\Sangla.Hector.2D.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\sangl\Desktop\Tps-Recuperatorio\Tp3\Sangla.Hector.2D.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\sangl\Desktop\Tps-Recuperatorio\Tp3\Sangla.Hector.2D.TP3\Archivos\bin\Debug\exepciones.dll
+C:\Users\sangl\Desktop\Tps-Recuperatorio\Tp3\Sangla.Hector.2D.TP3\Archivos\bin\Debug\exepciones.pdb
+C:\Users\sangl\Desktop\Tps-Recuperatorio\Tp3\Sangla.Hector.2D.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\sangl\Desktop\Tps-Recuperatorio\Tp3\Sangla.Hector.2D.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\sangl\Desktop\Tps-Recuperatorio\Tp3\Sangla.Hector.2D.TP3\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\sangl\Desktop\Tps-Recuperatorio\Tp3\Sangla.Hector.2D.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\sangl\Desktop\Tps-Recuperatorio\Tp3\Sangla.Hector.2D.TP3\Archivos\obj\Debug\Archivos.pdb

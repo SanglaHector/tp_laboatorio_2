@@ -1,0 +1,34 @@
+C:\Users\e5a8013\Desktop\Espacio de Estudio\tp3\cursoC--master\tp3\Sangla.Hector.2D.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.dll
+C:\Users\e5a8013\Desktop\Espacio de Estudio\tp3\cursoC--master\tp3\Sangla.Hector.2D.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+C:\Users\e5a8013\Desktop\Espacio de Estudio\tp3\cursoC--master\tp3\Sangla.Hector.2D.TP3\ClasesAbstractas\bin\Debug\exepciones.dll
+C:\Users\e5a8013\Desktop\Espacio de Estudio\tp3\cursoC--master\tp3\Sangla.Hector.2D.TP3\ClasesAbstractas\bin\Debug\exepciones.pdb
+C:\Users\e5a8013\Desktop\Espacio de Estudio\tp3\cursoC--master\tp3\Sangla.Hector.2D.TP3\ClasesAbstractas\obj\Debug\EntidadesAbstractas.csprojResolveAssemblyReference.cache
+C:\Users\e5a8013\Desktop\Espacio de Estudio\tp3\cursoC--master\tp3\Sangla.Hector.2D.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
+C:\Users\e5a8013\Desktop\Espacio de Estudio\tp3\cursoC--master\tp3\Sangla.Hector.2D.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb
+C:\Users\sangl\Desktop\30DeOctubre\tp3\Sangla.Hector.2D.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.dll
+C:\Users\sangl\Desktop\30DeOctubre\tp3\Sangla.Hector.2D.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+C:\Users\sangl\Desktop\30DeOctubre\tp3\Sangla.Hector.2D.TP3\ClasesAbstractas\bin\Debug\exepciones.dll
+C:\Users\sangl\Desktop\30DeOctubre\tp3\Sangla.Hector.2D.TP3\ClasesAbstractas\bin\Debug\exepciones.pdb
+C:\Users\sangl\Desktop\30DeOctubre\tp3\Sangla.Hector.2D.TP3\ClasesAbstractas\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
+C:\Users\sangl\Desktop\30DeOctubre\tp3\Sangla.Hector.2D.TP3\ClasesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\sangl\Desktop\30DeOctubre\tp3\Sangla.Hector.2D.TP3\ClasesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CopyComplete
+C:\Users\sangl\Desktop\30DeOctubre\tp3\Sangla.Hector.2D.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
+C:\Users\sangl\Desktop\30DeOctubre\tp3\Sangla.Hector.2D.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb
+C:\Users\sangl\Desktop\tpss\Tp3\Sangla.Hector.2D.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.dll
+C:\Users\sangl\Desktop\tpss\Tp3\Sangla.Hector.2D.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+C:\Users\sangl\Desktop\tpss\Tp3\Sangla.Hector.2D.TP3\ClasesAbstractas\bin\Debug\exepciones.dll
+C:\Users\sangl\Desktop\tpss\Tp3\Sangla.Hector.2D.TP3\ClasesAbstractas\bin\Debug\exepciones.pdb
+C:\Users\sangl\Desktop\tpss\Tp3\Sangla.Hector.2D.TP3\ClasesAbstractas\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
+C:\Users\sangl\Desktop\tpss\Tp3\Sangla.Hector.2D.TP3\ClasesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\sangl\Desktop\tpss\Tp3\Sangla.Hector.2D.TP3\ClasesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CopyComplete
+C:\Users\sangl\Desktop\tpss\Tp3\Sangla.Hector.2D.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
+C:\Users\sangl\Desktop\tpss\Tp3\Sangla.Hector.2D.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb
+C:\Users\sangl\Desktop\Tps-Recuperatorio\Tp3\Sangla.Hector.2D.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.dll
+C:\Users\sangl\Desktop\Tps-Recuperatorio\Tp3\Sangla.Hector.2D.TP3\ClasesAbstractas\bin\Debug\ClasesAbstractas.pdb
+C:\Users\sangl\Desktop\Tps-Recuperatorio\Tp3\Sangla.Hector.2D.TP3\ClasesAbstractas\bin\Debug\exepciones.dll
+C:\Users\sangl\Desktop\Tps-Recuperatorio\Tp3\Sangla.Hector.2D.TP3\ClasesAbstractas\bin\Debug\exepciones.pdb
+C:\Users\sangl\Desktop\Tps-Recuperatorio\Tp3\Sangla.Hector.2D.TP3\ClasesAbstractas\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
+C:\Users\sangl\Desktop\Tps-Recuperatorio\Tp3\Sangla.Hector.2D.TP3\ClasesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\sangl\Desktop\Tps-Recuperatorio\Tp3\Sangla.Hector.2D.TP3\ClasesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CopyComplete
+C:\Users\sangl\Desktop\Tps-Recuperatorio\Tp3\Sangla.Hector.2D.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.dll
+C:\Users\sangl\Desktop\Tps-Recuperatorio\Tp3\Sangla.Hector.2D.TP3\ClasesAbstractas\obj\Debug\ClasesAbstractas.pdb
