@@ -5,3 +5,10 @@ C:\Users\sangl\Desktop\Entidades\Entidades\obj\Debug\Entidades.csprojAssemblyRef
 C:\Users\sangl\Desktop\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\sangl\Desktop\Entidades\Entidades\obj\Debug\Entidades.exe
 C:\Users\sangl\Desktop\Entidades\Entidades\obj\Debug\Entidades.pdb
+C:\Users\sangl\Desktop\tps-definitivo\Tp1\Entidades\Entidades\bin\Debug\Entidades.exe.config
+C:\Users\sangl\Desktop\tps-definitivo\Tp1\Entidades\Entidades\bin\Debug\Entidades.exe
+C:\Users\sangl\Desktop\tps-definitivo\Tp1\Entidades\Entidades\bin\Debug\Entidades.pdb
+C:\Users\sangl\Desktop\tps-definitivo\Tp1\Entidades\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\sangl\Desktop\tps-definitivo\Tp1\Entidades\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\sangl\Desktop\tps-definitivo\Tp1\Entidades\Entidades\obj\Debug\Entidades.exe
+C:\Users\sangl\Desktop\tps-definitivo\Tp1\Entidades\Entidades\obj\Debug\Entidades.pdb
